@@ -14,10 +14,10 @@
 
 	<div class="social">
 		<a href="https://hackclub.enterprise.slack.com/team/U09PHG7RLGG">
-		<Icon icon="mdi:slack" width="38" height="38"/>
+		<Icon icon="mdi:slack" width="24" height="48"/>
 		</a>
 		<a href="/session">
-		<Icon icon="simple-icons:session" width="38" height="38"/>
+		<Icon icon="simple-icons:session" width="24" height="48"/>
 		</a>
 	</div>
 </footer>

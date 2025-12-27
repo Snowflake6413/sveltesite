@@ -15,6 +15,14 @@
         text-align: left;
 
     }
+    .quickinfo{
+        border: 1px solid #333;
+        padding: 20px;
+    }
+    .hackatime{
+        display: flex;
+        justify-content: center;
+    }
 </style>
 
 
@@ -26,9 +34,13 @@
 <p>learning a new language is hard! because they is paywalls to learn! (are we deaduzz) :(</p>
 </div>
 
+<div class=hackatime>
+    <iframe title="Hackatime stats" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=21737&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark"></iframe>
+</div>
+
 <div class=buttons>
 <img src="https://88x31.nl/gifs/beecage.gif" alt="buzz buzz" height="31" width="88">
-<img src="https://88x31.nl/gifs/blends.gif" alt="erm.." height="31" width="88">
+<img src="https://88x31.nl/gifs/blends.gif" alt="smile..sweet..awesome!" height="31" width="88">
 <a href="https://bitwarden.com">
 <img src="https://88x31.nl/gifs/bitwarden.gif" alt="bitwarden is cool" height="31" width="88">
 </a>
@@ -37,5 +49,9 @@
 </a>
 <a href="https://hackclub.com">
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/d07b324a45721813_button__2_.gif" alt="HACK CLUB!!" height="31" width="88">
+</a>
+<img src="https://88x31.datakra.sh/img/random/ok.gif" alt="mmm OK">
+<a href="examply.com">
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/0796785b27d2838f_button__3_.gif" alt="me!">
 </a>
 </div>
