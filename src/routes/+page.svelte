@@ -2,6 +2,7 @@
     let name = 'alexander';
 </script>
 <title>alexander's site</title>
+
 <style>
     :global(body){
         background-color: #7BC4C4;
