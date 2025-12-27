@@ -3,19 +3,6 @@
 </script>
 
 <style>
-    .pfp-img {
-        border-radius: 50%;
-        border: 4px solid #8FA9A5;
-        width: 128px;
-        height: 128px;
-        object-fit: cover;
-    }
-    .quickinfo{
-        display: flex;
-        align-items: center;
-        gap: 2em;
-        justify-content: center;
-    }
     :global(body){
         background-color: #7BC4C4;
     }
@@ -24,14 +11,16 @@
         justify-content: center;
         gap: 1em;
     }
+    .quickinfo {
+        text-align: left;
+
+    }
 </style>
 
 
 <div class=quickinfo>
-    <img src="/slackpfp.jpg" alt="my profile pic on HC slack! :3" class="pfp-img">
-<h1>{name}</h1>
-<p>my name is {name}! i am a 15 year old male :3 </p>
-<p>im a proud hackclubber!</p>
+<p>hello! welcome to my website! my name is {name}! i am a 15 year old male and i'm a he/him</p>
+<p>im a proud Hack Clubber.</p>
 <p>i do alot of stuff!</p>
 </div>
 
