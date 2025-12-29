@@ -47,6 +47,19 @@
 			alt="me!"
 		/>
 	</a>
+	<a href="https://blogger.com">
+	<img src= https://88x31.nl/gifs/blogger_88x31.gif alt="blogger is kewl">
+	</a>
+	<a href="https://firefox.com">
+	<img src= https://88x31.nl/gifs/fftake.gif alt="firefox!">
+	</a>
+	<a href="https://www.foobar2000.org">
+	<img src="https://88x31.nl/gifs/foobar2000.gif" alt="i think winamp is better">
+</a>
+	<a href="https://goodsearch.com">
+	<img src="https://88x31.nl/gifs/goodsearch-88x31.gif" alt="go donate for the gud">
+	</a>
+
 </div>
 
 <style>
