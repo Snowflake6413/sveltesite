@@ -72,7 +72,7 @@
 		gap: 1em;
 		flex-wrap: wrap;
 		padding: 0 1em;
-		margin-top: 2em;
+		margin-top: 1em;
 	}
 	.buttons img {
 		min-width: 88px;
@@ -91,7 +91,7 @@
 	.hackatime iframe {
 		width: 100%;
 		max-width: 500px;
-		height: 300px;
+		height: 200px;
 		border: 0;
 	}
 
