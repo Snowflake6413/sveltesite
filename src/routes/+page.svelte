@@ -20,8 +20,6 @@
 	<iframe
 		title="Hackatime stats"
 		src="https://github-readme-stats.hackclub.dev/api/wakatime?username=21737&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark"
-		width="500"
-		height="300"
 	></iframe>
 </div>
 
@@ -79,7 +77,8 @@
 	.hackatime iframe {
 		width: 100%;
 		max-width: 500px;
-		min-height: 200px;
+		height: 300px;
+		border: 0;
 	}
 
 	/* Mobile responsive adjustments */
@@ -90,7 +89,7 @@
 			aspect-ratio: 88 / 31;
 		}
 		.hackatime iframe {
-			min-height: 300px;
+			height: 350px;
 		}
 	}
 </style>
