@@ -15,9 +15,6 @@
 			<a href="/guestbook">Guestbook</a>
 		</nav>
 
-		<div class="aga">
-			<h1>the site of alexander :3</h1>
-		</div>
 
 		<div class="social">
 			<a href="https://hackclub.enterprise.slack.com/team/U09PHG7RLGG">
@@ -67,9 +64,5 @@
 		display: flex;
 		gap: 1rem;
 		margin-left: auto;
-	}
-	.aga {
-		text-align: center;
-		margin: auto;
 	}
 </style>
