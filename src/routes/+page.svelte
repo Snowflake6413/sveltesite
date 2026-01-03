@@ -12,8 +12,9 @@
 	</p>
 	<p>i like python. ALWAYS. i like to make slack bots when im not tired.</p>
 	<p>I want to learn new languages like Svelte, Kotlin, more python, more html, css and JS</p>
-	<p>learning a new language is hard! because they is paywalls to learn! (are we deaduzz) :(</p>
+	<p>learning a new language is hard! because they are paywalls to learn! (are we deaduzz) :(</p>
 	<p>i know my website is sloppy but it's better than my regular boba drop's website, right? :3</p>
+	<p> meow mrrp meow purrs *licks paws* :3</p>
 </div>
 
 <div class="hackatime">
