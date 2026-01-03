@@ -29,6 +29,9 @@
 			<a href="https://github.com/Snowflake6413">
 				<Icon icon="mdi:github" width="24" height="48" />
 			</a>
+			<a href="mailto:me@ifeellikeharukananase.tech">
+				<Icon icon="ic:outline-email" width="24" height="48" />
+			</a>
 		</div>
 	</header>
 
