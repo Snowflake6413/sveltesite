@@ -1,3 +1,6 @@
+<svelte:head>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Goog-LLC/Samply@main/onionring.css">
+</svelte:head>
 <script>
 	let name = 'alexander';
 </script>
@@ -15,6 +18,11 @@
 	<p>learning a new language is hard! because they are paywalls to learn! (are we deaduzz) :(</p>
 	<p>i know my website is sloppy but it's better than my regular boba drop's website, right? :3</p>
 	<p> meow mrrp meow purrs *licks paws* :3</p>
+	<p> AND ALSO, EMBRACE THE GOOG!</p>
+</div>
+
+<div class="goog">
+	<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/87173b112ff23787_3dgifmaker32890.gif" alt="goog is real BTW">
 </div>
 
 <div class="hackatime">
@@ -61,6 +69,11 @@
 	<img src="https://88x31.nl/gifs/goodsearch-88x31.gif" alt="go donate for the gud">
 	</a>
 
+</div>
+
+<div class=googwebring>
+	<script src="https://cdn.jsdelivr.net/gh/Goog-LLC/Samply@main/onionring-variables.js"></script>
+	<script src="https://cdn.jsdelivr.net/gh/Goog-LLC/Samply@main/onionring-widget.js"></script>
 </div>
 
 <style>
