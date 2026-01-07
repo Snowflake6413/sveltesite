@@ -1,7 +1,7 @@
 <svelte:head>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Goog-LLC/Samply@main/onionring.css">
 	<script src="https://cdn.jsdelivr.net/gh/Goog-LLC/Samply@main/onionring-variables.js"></script>
-	<script src="https://cdn.jsdelivr.net/gh/Goog-LLC/Samply@main/onionring-widget.js"></script>
+	<script async src="https://cdn.jsdelivr.net/gh/Goog-LLC/Samply@main/onionring-widget.js"></script>
 </svelte:head>
 <script>
 	let name = 'alexander';
