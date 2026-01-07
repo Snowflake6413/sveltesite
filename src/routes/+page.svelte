@@ -1,7 +1,7 @@
 <svelte:head>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Goog-LLC/Samply@main/onionring.css">
-	<script async src="https://cdn.jsdelivr.net/gh/Goog-LLC/Samply@main/onionring-variables.js"></script>
-	<script async src="https://cdn.jsdelivr.net/gh/Goog-LLC/Samply@main/onionring-widget.js"></script>
+	<script src="https://cdn.jsdelivr.net/gh/Goog-LLC/Samply@main/onionring-variables.js"></script>
+	<script src="https://cdn.jsdelivr.net/gh/Goog-LLC/Samply@main/onionring-widget.js"></script>
 </svelte:head>
 <script>
 	let name = 'alexander';
@@ -33,6 +33,8 @@
 		src="https://github-readme-stats.hackclub.dev/api/wakatime?username=21737&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark"
 	></iframe>
 </div>
+
+<div id="goog-ring"></div>
 
 <div class="buttons">
 	<img src="https://88x31.nl/gifs/beecage.gif" alt="buzz buzz" height="31" width="88" />
@@ -72,6 +74,7 @@
 	</a>
 
 </div>
+
 
 
 
