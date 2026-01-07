@@ -3,6 +3,9 @@
 ### Info
 Personal website, written in Svelte.
 
+>[!IMPORTANT]
+> Yes, I know I used a clanker for this project but it was fixing 3 little bugs I swear :(
+
 ### Quickstart
 You must have:
 * Bun
