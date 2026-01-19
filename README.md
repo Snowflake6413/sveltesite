@@ -30,3 +30,16 @@ bun install
 bun run dev
 ```
 5. Profit
+
+### Deployment on Coolify
+
+This project uses `@sveltejs/adapter-node` for Node.js-compatible deployments.
+
+#### Coolify Configuration
+Configure the following settings in your Coolify project:
+
+- **Build Command**: `npm run build` or `bun run build`
+- **Start Command**: `npm run start` or `node build/index.js`
+- **Port**: `3000` (default for adapter-node)
+
+The adapter will create a standalone Node.js server in the `build` directory that's ready to deploy.
