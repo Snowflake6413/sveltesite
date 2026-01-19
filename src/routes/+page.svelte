@@ -1,8 +1,3 @@
-<svelte:head>
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Goog-LLC/Samply@main/onionring.css">
-	<script src="https://cdn.jsdelivr.net/gh/Goog-LLC/Samply@main/onionring-variables.js"></script>
-	<script async src="https://cdn.jsdelivr.net/gh/Goog-LLC/Samply@main/onionring-widget.js"></script>
-</svelte:head>
 <script>
 	let name = 'alexander';
 </script>
@@ -20,11 +15,6 @@
 	<p>learning a new language is hard! because they are paywalls to learn! (are we deaduzz) :(</p>
 	<p>i know my website is sloppy but it's better than my regular boba drop's website, right? :3</p>
 	<p> meow mrrp meow purrs *licks paws* :3</p>
-	<p> AND ALSO, EMBRACE THE GOOG!</p>
-</div>
-
-<div class="goog">
-	<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/87173b112ff23787_3dgifmaker32890.gif" alt="goog is real BTW">
 </div>
 
 <div class="hackatime">
@@ -33,8 +23,6 @@
 		src="https://github-readme-stats.hackclub.dev/api/wakatime?username=21737&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark"
 	></iframe>
 </div>
-
-<div id="goog-ring"></div>
 
 <div class="buttons">
 	<img src="https://88x31.nl/gifs/beecage.gif" alt="buzz buzz" height="31" width="88" />
@@ -79,7 +67,6 @@
 </div>
 
 	
-
 
 
 
