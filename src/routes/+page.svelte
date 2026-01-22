@@ -17,13 +17,15 @@
 	<p> meow mrrp meow purrs *licks paws* :3</p>
 </div>
 
-<iframe style="border:none;" src="https://webring.hackclub.com/embed.html" width="90px" height="60px"></iframe>
-
 <div class="hackatime">
 	<iframe
 		title="Hackatime stats"
 		src="https://github-readme-stats.hackclub.dev/api/wakatime?username=21737&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark"
 	></iframe>
+</div>
+
+<div class="webring">
+	<iframe style="border:none;" src="https://webring.hackclub.com/embed.html" width="90px" height="60px"></iframe>
 </div>
 
 <div class="buttons">
@@ -71,7 +73,6 @@
 	
 
 
-
 <style>
 	:global(body) {
 		background-color: #7bc4c4;
@@ -103,6 +104,11 @@
 		max-width: 500px;
 		height: 200px;
 		border: 0;
+	}
+	.webring {
+		display: flex;
+		justify-content: center;
+		padding: 0.5em;
 	}
 
 	/* Mobile responsive adjustments */
