@@ -17,6 +17,8 @@
 	<p> meow mrrp meow purrs *licks paws* :3</p>
 </div>
 
+<iframe style="border:none;" src="https://webring.hackclub.com/embed.html" width="90px" height="60px"></iframe>
+
 <div class="hackatime">
 	<iframe
 		title="Hackatime stats"
