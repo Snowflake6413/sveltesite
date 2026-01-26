@@ -46,7 +46,7 @@
 		/>
 	</a>
 	<img src="https://88x31.datakra.sh/img/random/ok.gif" alt="mmm OK" />
-	<a href="https://areallyawesomeusername.me">
+	<a href="https://yaoi.tech">
 		<img
 			src="https://parakeet.yaoi.tech/button%20(3).gif"
 			alt="me!"
