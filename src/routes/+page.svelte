@@ -34,7 +34,7 @@
 	<a href="https://bitwarden.com">
 		<img src="https://88x31.nl/gifs/bitwarden.gif" alt="bitwarden is cool" height="31" width="88" />
 	</a>
-	<a href="https://hack.club/dj9up">
+	<a href="https://parakeet.yaoi.tech/dino.mp4">
 		<img src="https://88x31.nl/gifs/brothings.gif" alt="Wtf is that yaoi" height="31" width="88" />
 	</a>
 	<a href="https://hackclub.com">
