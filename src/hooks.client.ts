@@ -5,7 +5,7 @@ import type { HandleClientError } from '@sveltejs/kit';
 // Initialize PostHog when the app starts in the browser
 export async function init() {
 	posthog.init(PUBLIC_POSTHOG_KEY, {
-		api_host: '/ingest',
+		api_host: 'https://lala.otakuneko.lol',
 		ui_host: 'https://us.posthog.com',
 		defaults: '2026-01-30',
 		capture_exceptions: true
