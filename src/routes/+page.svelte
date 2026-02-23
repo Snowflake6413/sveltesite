@@ -34,21 +34,21 @@
 	<a href="https://bitwarden.com">
 		<img src="https://88x31.nl/gifs/bitwarden.gif" alt="bitwarden is cool" height="31" width="88" />
 	</a>
-	<a href="https://hack.club/dj9up">
+	<a href="https://parakeet.yaoi.tech/dino.mp4">
 		<img src="https://88x31.nl/gifs/brothings.gif" alt="Wtf is that yaoi" height="31" width="88" />
 	</a>
 	<a href="https://hackclub.com">
 		<img
-			src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/d07b324a45721813_button__2_.gif"
+			src="https://parakeet.yaoi.tech/button%20(2).gif"
 			alt="HACK CLUB!!"
 			height="31"
 			width="88"
 		/>
 	</a>
 	<img src="https://88x31.datakra.sh/img/random/ok.gif" alt="mmm OK" />
-	<a href="https://areallyawesomeusername.me">
+	<a href="https://yaoi.tech">
 		<img
-			src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/0796785b27d2838f_button__3_.gif"
+			src="https://parakeet.yaoi.tech/button%20(3).gif"
 			alt="me!"
 		/>
 	</a>
