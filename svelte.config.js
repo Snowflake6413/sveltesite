@@ -12,7 +12,11 @@ const config = {
 		// See https://svelte.dev/docs/kit/adapters for more information about adapters.
 		adapter: adapter({
 			out: 'build'
-		})
+		}),
+		// Required for PostHog session replay to work correctly with SSR
+		paths: {
+			relative: false
+		}
 	}
 };
 

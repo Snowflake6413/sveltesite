@@ -1,3 +1,12 @@
+<script lang="ts">
+	import posthog from 'posthog-js';
+	import { onMount } from 'svelte';
+
+	onMount(() => {
+		posthog.capture('guestbook_viewed');
+	});
+</script>
+
 <title>alexander's site</title>
 
 <div class="guestbook">

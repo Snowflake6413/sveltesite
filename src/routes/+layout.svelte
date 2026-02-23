@@ -2,8 +2,17 @@
 	import './layout.css';
 	import Icon from '@iconify/svelte';
 	import favicon from '/favicon.ico';
+	import posthog from 'posthog-js';
 
 	let { children } = $props();
+
+	function trackNavClick(label: string) {
+		posthog.capture('nav_link_clicked', { label });
+	}
+
+	function trackSocialClick(platform: string) {
+		posthog.capture('social_link_clicked', { platform });
+	}
 </script>
 
 <svelte:head><link rel="icon" href={favicon} /></svelte:head>
@@ -11,22 +20,24 @@
 <div class="layout-container">
 	<header>
 		<nav>
-			<a href="/">Home</a>
-			<a href="/guestbook">Guestbook</a>
+			<a href="/" onclick={() => trackNavClick('home')}>Home</a>
+			<a href="/guestbook" onclick={() => trackNavClick('guestbook')}>Guestbook</a>
 		</nav>
 
-
 		<div class="social">
-			<a href="https://hackclub.enterprise.slack.com/team/U09PHG7RLGG">
+			<a
+				href="https://hackclub.enterprise.slack.com/team/U09PHG7RLGG"
+				onclick={() => trackSocialClick('slack')}
+			>
 				<Icon icon="mdi:slack" width="24" height="48" />
 			</a>
-			<a href="/session">
+			<a href="/session" onclick={() => trackSocialClick('session')}>
 				<Icon icon="simple-icons:session" width="24" height="48" />
 			</a>
-			<a href="https://github.com/Snowflake6413">
+			<a href="https://github.com/Snowflake6413" onclick={() => trackSocialClick('github')}>
 				<Icon icon="mdi:github" width="24" height="48" />
 			</a>
-			<a href="mailto:me@ifeellikeharukananase.tech">
+			<a href="mailto:me@ifeellikeharukananase.tech" onclick={() => trackSocialClick('email')}>
 				<Icon icon="ic:outline-email" width="24" height="48" />
 			</a>
 		</div>
