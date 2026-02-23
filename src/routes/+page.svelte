@@ -25,7 +25,7 @@
 </div>
 
 <div class="webring">
-	<iframe style="border:none;" src="https://webring.hackclub.com/embed.html" width="90px" height="60px"></iframe>
+	<iframe style="border:none;" title="hc" src="https://webring.hackclub.com/embed.html" width="90px" height="60px"></iframe>
 </div>
 
 <div class="buttons">
