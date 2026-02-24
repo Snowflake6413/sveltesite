@@ -31,13 +31,16 @@
 			>
 				<Icon icon="mdi:slack" width="24" height="48" />
 			</a>
-			<a href="/session" onclick={() => trackSocialClick('session')}>
-				<Icon icon="simple-icons:session" width="24" height="48" />
+			<a href="https://signal.me/#eu/p23SUS2Dm-maT2yMVgsr70P1vIYS2akHF3EtJrBU9s9Zl-MaKOZOoKFLEAPTbjSc" onclick={() => trackSocialClick('signal')}>
+				<Icon icon="simple-icons:signal" width="24" height="48" />
+			</a>
+			<a href="https://t.me/coolcatsforever" onclick={() => trackSocialClick('telegram')}>
+				<Icon icon="mdi:telegram" width="24" height="48" />
 			</a>
 			<a href="https://github.com/Snowflake6413" onclick={() => trackSocialClick('github')}>
 				<Icon icon="mdi:github" width="24" height="48" />
 			</a>
-			<a href="mailto:me@ifeellikeharukananase.tech" onclick={() => trackSocialClick('email')}>
+			<a href="mailto:riseupgang.decay960@passinbox.com" onclick={() => trackSocialClick('email')}>
 				<Icon icon="ic:outline-email" width="24" height="48" />
 			</a>
 		</div>
