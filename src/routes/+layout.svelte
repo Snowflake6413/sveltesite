@@ -35,7 +35,7 @@
 				<Icon icon="simple-icons:signal" width="24" height="48" />
 			</a>
 			<a href="https://t.me/coolcatsforever" onclick={() => trackSocialClick('telegram')}>
-				<Icon icon="mdi:telegram" width="24" height="48" />
+				<Icon icon="mingcute:telegram-fill" width="24" height="48" />
 			</a>
 			<a href="https://github.com/Snowflake6413" onclick={() => trackSocialClick('github')}>
 				<Icon icon="mdi:github" width="24" height="48" />
