@@ -37,11 +37,11 @@
 			<a href="https://t.me/coolcatsforever" onclick={() => trackSocialClick('telegram')}>
 				<Icon icon="mingcute:telegram-fill" width="24" height="48" />
 			</a>
+			<a href="https://bo4g888s4w00wc8oc08sckwg.yaoi.tech" onclick={() => trackSocialClick('session')}>
+				<Icon icon="simple-icons:session" width="24" height="48" />
+			</a>
 			<a href="https://github.com/Snowflake6413" onclick={() => trackSocialClick('github')}>
 				<Icon icon="mdi:github" width="24" height="48" />
-			</a>
-			<a href="mailto:riseupgang.decay960@passinbox.com" onclick={() => trackSocialClick('email')}>
-				<Icon icon="ic:outline-email" width="24" height="48" />
 			</a>
 		</div>
 	</header>
