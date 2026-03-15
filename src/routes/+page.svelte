@@ -68,6 +68,28 @@
 	<a href="https://gizzy.gay">
 	<img src="https://gizzy.gay/88x31.svg" alt="gizzy">
 	</a>
+
+	<a href="https://mateishome.page">
+	<img src="https://mateishome.page/files/images/buttons/mateishomepage.png" alt="matei">
+	</a>
+
+	<a href="https://ingo.au">
+	<img src="https://ingo.au/buttons/ingo.png" alt="ingo">
+	</a>
+
+	<a href="https://addy10s.xyz">
+	<img src="https://www.addy10s.xyz/addy88x31.gif" alt="addy">
+	</a>
+
+	<a href="https://www.codingcorner.dev/">
+	<img src="https://www.codingcorner.dev/buttons/codingcorner.png" alt="codingcorner">
+	</a>
+
+	<a href="https://gotlobotomy.tech/">
+	<img src="https://ingobeans.github.io/pondering-horses/images/irisbutton.png" alt="iris">
+	</a>
+	
+	
 <a href="https://www.abuseipdb.com/user/264031" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
   <img src="https://www.abuseipdb.com/contributor/264031.svg" alt="AbuseIPDB Contributor Badge" style="width: 145px;border-radius: 5px; border-top: 5px solid #058403; border-right: 5px solid #111; border-bottom: 5px solid #111; border-left: 5px solid #058403; padding: 5px;background: #35c246 linear-gradient(rgba(255,255,255,0), rgba(255,255,255,.3) 50%, rgba(0,0,0,.2) 51%, rgba(0,0,0,0)); padding: 5px;box-shadow: 2px 2px 1px 1px rgba(0, 0, 0, .2);">
 </a>
@@ -115,7 +137,6 @@
 		padding: 0.5em;
 	}
 
-	/* Mobile responsive adjustments */
 	@media (max-width: 768px) {
 		.buttons img {
 			width: 110px;
