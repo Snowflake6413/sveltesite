@@ -15,6 +15,7 @@
 	<p>learning a new language is hard! because they are paywalls to learn! (are we deaduzz) :(</p>
 	<p>i know my website is sloppy but it's better than my regular boba drop's website, right? :3</p>
 	<p> meow mrrp meow purrs *licks paws* :3</p>
+	<p>goooo gooo gooo gaga</p>
 </div>
 
 <div class="hackatime">
