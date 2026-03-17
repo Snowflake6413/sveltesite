@@ -31,13 +31,16 @@
 			>
 				<Icon icon="mdi:slack" width="24" height="48" />
 			</a>
-			<a href="https://signal.me/#eu/p23SUS2Dm-maT2yMVgsr70P1vIYS2akHF3EtJrBU9s9Zl-MaKOZOoKFLEAPTbjSc" onclick={() => trackSocialClick('signal')}>
+			<a
+				href="https://signal.me/#eu/p23SUS2Dm-maT2yMVgsr70P1vIYS2akHF3EtJrBU9s9Zl-MaKOZOoKFLEAPTbjSc"
+				onclick={() => trackSocialClick('signal')}
+			>
 				<Icon icon="simple-icons:signal" width="24" height="48" />
 			</a>
 			<a href="https://t.me/coolcatsforever" onclick={() => trackSocialClick('telegram')}>
 				<Icon icon="mingcute:telegram-fill" width="24" height="48" />
 			</a>
-			<a href="https://bo4g888s4w00wc8oc08sckwg.yaoi.tech" onclick={() => trackSocialClick('session')}>
+			<a href="https://phreesia-91e.pages.dev/" onclick={() => trackSocialClick('session')}>
 				<Icon icon="simple-icons:session" width="24" height="48" />
 			</a>
 			<a href="https://github.com/Snowflake6413" onclick={() => trackSocialClick('github')}>
