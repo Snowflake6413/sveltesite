@@ -49,7 +49,7 @@
 	<img src="https://88x31.datakra.sh/img/random/ok.gif" alt="mmm OK" />
 	<a href="https://yaoi.tech">
 		<img
-			src="https://parakeet.yaoi.tech/button%20(3).gif"
+			src="https://cdn.hackclub.com/019ddee5-5fae-74b8-b575-7155ad17b5b8/FUCKYOU.gif"
 			alt="me!"
 		/>
 	</a>
